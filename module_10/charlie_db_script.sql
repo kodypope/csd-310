@@ -309,3 +309,4 @@ INSERT INTO User (UserID, UserName) VALUES
 INSERT INTO UserDistributor (UserID, DistributorID) VALUES
 (1701, 201),
 (1702, 202);
+
